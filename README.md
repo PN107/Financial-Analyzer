@@ -1,7 +1,7 @@
 # Financial-Analyzer
 Overview
 
-The Smart Personal Finance Analyzer is a Python program designed to manage and analyze financial transactions. It provides functionalities to load, add, view, update, delete, analyze, save transactions, and generate reports.
+The Smart Personal Finance Analyzer is designed to manage and analyze financial transactions. 
 
 Features
 
